@@ -9,7 +9,12 @@
       "id": "abc398_a",
       "label": "A",
       "title": "Doors in the Center",
-      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_a"
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
     },
     {
       "id": "abc398_b",
