@@ -26,7 +26,12 @@
       "id": "arc096_a",
       "label": "C",
       "title": "Half and Half",
-      "url": "https://atcoder.jp/contests/abc095/tasks/arc096_a"
+      "url": "https://atcoder.jp/contests/abc095/tasks/arc096_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
     },
     {
       "id": "arc096_b",
